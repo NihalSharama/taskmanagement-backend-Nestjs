@@ -1,0 +1,10 @@
+server:
+  port: 6969
+
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'taskmanegment'
+
+jwt:
+  expiresIn: 3600
